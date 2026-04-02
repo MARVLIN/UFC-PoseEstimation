@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pt
+.DS_Store
+_sandbox/
+runs/
+mma_pose_dataset/
